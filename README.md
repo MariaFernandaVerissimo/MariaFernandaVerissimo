@@ -25,9 +25,13 @@ Sou estudante do curso Técnico em Informática para a Web, explorando e aprende
 
 <div align="center">
   <a href="https://www.instagram.com/mafe.vrsm?igsh=MW1mOTNqYnRycjM4dA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
   <a href="mailto:vrsmmafe@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
+
+![hello kitty](https://i.gifer.com/7V0.gif)
+
+
